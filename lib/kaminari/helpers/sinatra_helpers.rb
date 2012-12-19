@@ -3,7 +3,6 @@ require 'active_support/core_ext/string'
 
 begin
 
-require 'padrino-helpers'
 module Kaminari::Helpers
   module SinatraHelpers
     class << self
