@@ -2,7 +2,7 @@ require 'active_support/core_ext/object'
 require 'active_support/core_ext/string'
 
 begin
-require 'padrino-helpers'
+# require 'padrino-helpers'
 module Kaminari::Helpers
   module SinatraHelpers
     class << self
